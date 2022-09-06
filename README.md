@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Bruno 👋 
 
-<!--
-**Brmiranda10/brmiranda10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 Brazilian/Porto_Alegre
+- 🎓 Learning to be: Code developer
+- 🎓 Academic qualifications: Production Engineering
+- 💻 Programming language: Java Script , HTML e CSS 
+- 🔨 Tools: Vs Code, Power BI, GitHub
+- 📫 E-mail: brmiranda10@gmail.com
 
-Here are some ideas to get you started:
+### Hobbies and interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚽ I already was a good football player (today I just watch)
+- 📖 I spent a long time reading books
+- 🔍 Very very curious
+- 👨‍💻 Exciting about tech
+- 📊 Could I say that data analysis is my second love?
