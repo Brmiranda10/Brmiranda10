@@ -13,4 +13,4 @@
 - 📖 I spent a long time reading books
 - 🔍 Very very curious
 - 👨‍💻 Exciting about tech
-- 📊 Could I say that data analysis is my second love?
+- 📊 Could I say that data analysis makes my eyes shine?
