@@ -1,10 +1,9 @@
 ### Hey, I'm Bruno 👋 
 
 - 🌎 Brazilian/Porto_Alegre
-- 🎓 Learning to be: Code developer
+- 🎓 Learning to be: Data Analyst
 - 🎓 Academic qualifications: Production Engineering
-- 💻 Programming language: Java Script , HTML e CSS 
-- 🔨 Tools: Vs Code, Power BI, GitHub
+- 💻 Programming language: Python, PySpark, C#, HTML e CSS 
 - 📫 E-mail: brmiranda10@gmail.com
 
 ### Hobbies and interests
