@@ -1,9 +1,9 @@
 ### Hey, I'm Bruno 👋 
 
 - 🌎 Brazilian/Porto_Alegre
-- 🎓 Learning to be: Data Analyst
+- 🎓 Learning to be: Data Engineer
 - 🎓 Academic qualifications: Production Engineering
-- 💻 Programming language: Python, PySpark, C#, HTML e CSS 
+- 💻 Programming language: Python, PySpark, SQL 
 - 📫 E-mail: brmiranda10@gmail.com
 
 ### Hobbies and interests
