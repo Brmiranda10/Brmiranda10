@@ -1,8 +1,8 @@
 ### Hey, I'm Bruno 👋 
 
 - 🌎 Brazilian/Porto_Alegre
-- 🎓 Learning to be: Data Engineer
-- 🎓 Academic qualifications: Production Engineering
+- 🎓 I am a: Jr Data Engineer
+- 🎓 Academic qualifications: Ph.D in Engineering
 - 💻 Programming language: Python, PySpark, SQL 
 - 📫 E-mail: brmiranda10@gmail.com
 
